@@ -2,7 +2,7 @@
 **Jogo da velha criado em Java com conexão em socket com multi threads
 
 ## Sistemas Distribuídos
-**Instituição: FMU 
+**Instituição: FMU <br>
 **Aluno: Flavio Machado de Sousa 
 
 ## Informações do projeto
