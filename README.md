@@ -1,5 +1,5 @@
 # JogoDaVelha
-__Jogo da velha criado em Java com conexão em socket com multi threads
+**Jogo da velha criado em Java com conexão em socket com multi threads**
 
 ## Sistemas Distribuídos
 __Instituição: FMU <br>
