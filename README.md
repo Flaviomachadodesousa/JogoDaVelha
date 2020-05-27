@@ -1,4 +1,4 @@
-# JogoDaVelha
+# Jogo Da Velha Classico
 **Jogo da velha criado em Java com conexão em socket com multi threads**<br>
 
 ## Sistemas Distribuídos
