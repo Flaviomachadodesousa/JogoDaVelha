@@ -1,4 +1,4 @@
-# Jogo Da Velha Classico
+# Jogo Da Velha Clássico
 **Jogo da velha criado em Java com conexão em socket com multi threads**<br>
 
 ## Sistemas Distribuídos
@@ -10,4 +10,4 @@
 **Projeto realizado na linguagem Java**<br>
 
 ## Objetivo 
-Jogo da velha com multi threads e conexão com dois jogadores respeitando a regra do jogo da velha classico.
+Jogo da velha com multi threads e conexão com dois jogadores respeitando a regra do jogo da velha clássico.
