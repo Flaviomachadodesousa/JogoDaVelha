@@ -1,7 +1,7 @@
 /*
 
-    FMU - SISTEMAS DISTRIBUIDOS
-    Flavio Machado de Sousa - Ra: 6654670
+    FMU - SISTEMAS DISTRIBUIDOS - 6° Semestre
+    Flavio Machado de Sousa 
 
 */
 
